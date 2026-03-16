@@ -39,7 +39,7 @@ Select Download ZIP
 Extract the project on your computer
 
 Option 2 — Clone with Git
-git clone https://github.com/YOUR_USERNAME/hacker-wordlist-generator.git
+git clone https://github.com/theyoungreen/hacker-wordlist-generator.git
 
 Then navigate into the folder:
 
